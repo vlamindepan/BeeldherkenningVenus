@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeldherkenningVenus", "BeeldherkenningVenus\BeeldherkenningVenus.csproj", "{2FDE5B0E-F2EE-4D3B-AAAE-25FB3F5E8548}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeeldherkenningVenusML.Model", "BeeldherkenningVenusML.Model\BeeldherkenningVenusML.Model.csproj", "{B201FE27-CAD5-4C26-B0FE-BBD27A8F8B39}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeeldherkenningVenusML.ConsoleApp", "BeeldherkenningVenusML.ConsoleApp\BeeldherkenningVenusML.ConsoleApp.csproj", "{5E21CCBE-23D9-495C-BD86-1BF0EF532744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FDE5B0E-F2EE-4D3B-AAAE-25FB3F5E8548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDE5B0E-F2EE-4D3B-AAAE-25FB3F5E8548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDE5B0E-F2EE-4D3B-AAAE-25FB3F5E8548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDE5B0E-F2EE-4D3B-AAAE-25FB3F5E8548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B201FE27-CAD5-4C26-B0FE-BBD27A8F8B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B201FE27-CAD5-4C26-B0FE-BBD27A8F8B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B201FE27-CAD5-4C26-B0FE-BBD27A8F8B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B201FE27-CAD5-4C26-B0FE-BBD27A8F8B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E21CCBE-23D9-495C-BD86-1BF0EF532744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E21CCBE-23D9-495C-BD86-1BF0EF532744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E21CCBE-23D9-495C-BD86-1BF0EF532744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E21CCBE-23D9-495C-BD86-1BF0EF532744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35363F54-3C4E-4FCA-835F-D116B8348FBE}
+	EndGlobalSection
+EndGlobal
